@@ -1,4 +1,4 @@
-# Temp1
+# Printrr-App
 
 A project hosted on GitHub by edwin-revstar.
 
