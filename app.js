@@ -1,6 +1,6 @@
 const express = require("express");
 const path = require("path");
-const mysql = require("mysql2");
+const mysql = require("mysql");
 const dotenv = require("dotenv");
 const fileUpload = require("express-fileupload");
 
