@@ -21,20 +21,22 @@ This repository contains the source code for the "temp1" project. It encompasses
 ## Setup and Installation
 
 1. Clone the repository:
-
-git clone https://github.com/edwin-revstar/temp1.git
-
+```
+git clone git@github.com:Printrr-App/Printrr-App.git
+```
 2. Navigate to the project directory:
-
-cd temp1
-
+```
+cd Printrr-App
+```
 3. Install the required dependencies (assuming you're using npm or a similar package manager):
-
+```
 npm install
-
+```
 4. Run the project (this might vary based on your setup):
-
+```
 npm start
+```
+
 
 ## Frontend - Views
 
@@ -43,7 +45,5 @@ The frontend of the project is located in the `/views` directory. This directory
 ## Backend - Routes
 
 The backend logic of the project is located in the `/routes` directory. This directory contains all the routing logic for the application. It handles requests, processes data, and sends responses back to the frontend.
-
----
 
 For a more detailed understanding of the frontend and backend, you can refer to the respective README files inside the `/views` and `/routes` directories.
