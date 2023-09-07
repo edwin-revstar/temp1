@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the source code for the "Printrr-App" project. It encompasses various functionalities and features, including the use of the Morris.js library for charting.
+This repository contains the source code for the "Printrr-App" project. It encompasses various functionalities and features, including the use of Handlebars.js for frontend and nodejs (ExpressJS) for endpoint backend.
 
 ## Features
 
@@ -41,3 +41,7 @@ The frontend of the project is located in the `/views` directory. This directory
 The backend logic of the project is located in the `/routes` directory. This directory contains all the routing logic for the application. It handles requests, processes data, and sends responses back to the frontend.
 
 For a more detailed understanding of the frontend and backend, you can refer to the respective README files inside the `/views` and `/routes` directories.
+
+## Handlebars.js
+Handlebars.js is a powerful templating engine based on the Mustache template language but with added features. It allows developers to build semantic templates effectively without the need for writing a lot of JavaScript code.
+
