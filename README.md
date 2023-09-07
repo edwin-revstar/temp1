@@ -1,11 +1,5 @@
 # Printrr-App
 
-A project hosted on GitHub by edwin-revstar.
-
-## Repository URL
-
-[Temp1 GitHub Repository](https://github.com/edwin-revstar/temp1)
-
 ## Overview
 
 This repository contains the source code for the "temp1" project. It encompasses various functionalities and features, including the use of the Morris.js library for charting.
